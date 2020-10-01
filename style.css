@@ -1,0 +1,52 @@
+h1{
+    color: #eeffab;
+    font-weight: italic; 
+    font-size:20pt;
+    font-family: helvetica;
+   }
+
+.intro{
+    background-color: #ae2b;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.games{
+    
+    background-color:#ddd2e6;
+    
+   
+}
+
+.social{
+    display:flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    text-align: center;
+    background-color: #aabbcc;
+    color: #dd5e79;
+}
+
+
+
+
+
+
+
+      
+
+
+
+     
+
+
+
+       
+
+
+
+
